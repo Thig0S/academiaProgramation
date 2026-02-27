@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabio\\source\\repos\\projetoAcademia01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A64AAE86-C543-432B-9044-EDCF4D4A68D4}|projetoAcademia01\\projetoAcademia01.csproj|c:\\users\\fabio\\source\\repos\\projetoacademia01\\projetoacademia01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64AAE86-C543-432B-9044-EDCF4D4A68D4}|projetoAcademia01\\projetoAcademia01.csproj|solutionrelative:projetoacademia01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\projetoAcademia01\\projetoAcademia01\\Program.cs",
+              "RelativeDocumentMoniker": "projetoAcademia01\\Program.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\projetoAcademia01\\projetoAcademia01\\Program.cs",
+              "RelativeToolTip": "projetoAcademia01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T00:28:51.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

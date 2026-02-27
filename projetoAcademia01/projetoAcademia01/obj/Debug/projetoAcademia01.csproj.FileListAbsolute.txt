@@ -1,0 +1,7 @@
+C:\Users\fabio\source\repos\projetoAcademia01\projetoAcademia01\bin\Debug\projetoAcademia01.exe.config
+C:\Users\fabio\source\repos\projetoAcademia01\projetoAcademia01\bin\Debug\projetoAcademia01.exe
+C:\Users\fabio\source\repos\projetoAcademia01\projetoAcademia01\bin\Debug\projetoAcademia01.pdb
+C:\Users\fabio\source\repos\projetoAcademia01\projetoAcademia01\obj\Debug\projetoAcademia01.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\projetoAcademia01\projetoAcademia01\obj\Debug\projetoAcademia01.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\projetoAcademia01\projetoAcademia01\obj\Debug\projetoAcademia01.exe
+C:\Users\fabio\source\repos\projetoAcademia01\projetoAcademia01\obj\Debug\projetoAcademia01.pdb
